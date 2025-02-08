@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram1015&show_icons=true&locale=en" alt="sriram1015" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram1015&" alt="sriram1015" /></p>
+<p align="left"> <a href="https://leetcard.jacoblin.cool/Sriram_v26?theme=forest&font=Charmonman"></a></p>
