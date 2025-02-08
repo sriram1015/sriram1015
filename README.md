@@ -96,11 +96,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sriram_v26?theme=forest&font=Charmonman%20Infant&ext=heatmap)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram1015&show_icons=true&locale=en&layout=compact" alt="sanjairajaganapathi2005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram1015&show_icons=true&locale=en&layout=compact" alt="sriram1015" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram1015&show_icons=true&locale=en" alt="sanjairajaganapathi2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram1015&show_icons=true&locale=en" alt="sriram1015" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram1015&" alt="sanjairajaganapathi2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram1015&" alt="sriram1015" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="sriram1015" alt="sriram1015" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram1015 alt="sriram1015" /></a> </p>
 
